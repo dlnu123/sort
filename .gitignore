@@ -17,3 +17,9 @@ jboss/server/minimal/work/**/*
 # deployed package files #
 
 *.DEPLOYED
+.metadata/
+RemoteSystemsTempFiles/
+.classpath
+.project
+.settings/
+.recommenders/
